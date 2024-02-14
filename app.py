@@ -1,5 +1,5 @@
 #pip install streamlit
-#pip install pandas
+#pip install panda
 #pip install sklear
 
 # IMPORT STATEMENTS
